@@ -1,0 +1,19 @@
+<svg id="icon_tab_event_24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="長方形_7534" data-name="長方形 7534" class="cls-1" width="24" height="24"/>
+  <g id="flag">
+    <path id="パス_17871" data-name="パス 17871" class="cls-2" d="M8.36,0l.4,2H17V12H10.764l-.4-2H1V0H8.36M9.59-2H-.5a.5.5,0,0,0-.5.5v19a.5.5,0,0,0,.5.5h1a.5.5,0,0,0,.5-.5V12H8.724l.32,1.6a.5.5,0,0,0,.49.4H18.5a.5.5,0,0,0,.5-.5V.5a.5.5,0,0,0-.5-.5H10.4l-.32-1.6A.5.5,0,0,0,9.59-2" transform="translate(3 4)"/>
+    <path id="交差_3" data-name="交差 3" class="cls-2" d="M22215.563,16183.346V16183h-2v-2h-2v-2h-1.041l-.4-2h1.441v2h2v2h2v2h2v.346Zm-4,0V16183h-.242l-.4-2h.643v2h2v.346Zm4-2.347v-2h-2v-2h-2v-2h-1.842l-.16-.794v-1.2h2v2h2v2h2v2h2v2Zm0-4v-2h-2v-2h2v2h2v2Z" transform="translate(-22197.563 -16167)"/>
+    <path id="前面オブジェクトで型抜き_28" data-name="前面オブジェクトで型抜き 28" class="cls-2" d="M22211.361,16183H22210v-2h.965l.4,2Zm-3.361,0h-2v-2h2v2Zm-4,0h-2v-2h2v2Zm6-2h-2v-2h2v2Zm-4,0h-2v-2h2v2Zm2-2h-2v-2h2v2Zm-4,0h-2v-2h2v2Zm6.566,0H22210v-2h.166l.4,2Zm-.566-2h-2v-2h1.76l.238,1.175,0,.827Zm-4,0h-2v-2h2v2Zm2-2h-2v-2h2v2Zm-4,0h-2v-2h2v2Z" transform="translate(-22198 -16169)"/>
+  </g>
+</svg>

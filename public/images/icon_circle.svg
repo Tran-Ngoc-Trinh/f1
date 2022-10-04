@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="circle" class="cls-1" d="M14.25-1.5A15.75,15.75,0,1,1-1.5,14.25,15.768,15.768,0,0,1,14.25-1.5Zm0,27A11.25,11.25,0,1,0,3,14.25,11.263,11.263,0,0,0,14.25,25.5Z" transform="translate(1.5 1.5)"/>
+</svg>

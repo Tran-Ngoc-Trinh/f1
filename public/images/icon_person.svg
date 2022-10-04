@@ -1,0 +1,20 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icon_personalinfo_24">
+    <rect id="長方形_1001" data-name="長方形 1001" class="cls-1" width="24" height="24" rx="4"/>
+    <g id="icon_personalinfo_24-2" data-name="icon_personalinfo_24">
+      <path id="パス_2435" data-name="パス 2435" class="cls-1" d="M0,0H24V24H0Z"/>
+      <path id="パス_2436" data-name="パス 2436" class="cls-2" d="M12,6a2,2,0,1,1-2,2,2.006,2.006,0,0,1,2-2m0,10c2.7,0,5.8,1.29,6,2H6c.23-.72,3.31-2,6-2M12,4a4,4,0,1,0,4,4A4,4,0,0,0,12,4Zm0,10c-2.67,0-8,1.34-8,4v2H20V18C20,15.34,14.67,14,12,14Z"/>
+    </g>
+  </g>
+</svg>
